@@ -1,0 +1,5 @@
+It an application to download all video or selected video of a Youtbe plalist 
+Only you have to paste the playlist link and select desired videos
+
+all documentation used for development of this is available here 
+https://customtkinter.tomschimansky.com/documentation/widgets/scrollableframe/
