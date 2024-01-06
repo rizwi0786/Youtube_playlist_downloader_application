@@ -1,6 +1,20 @@
-# Youtube Plalist downloader with python
-It an application to download all video or selected video of a Youtbe plalist 
-Only you have to paste the playlist link and select desired videos
+<!-- Header -->
+# My Awesome Project
 
-all documentation used for development of this is available here 
-https://customtkinter.tomschimansky.com/documentation/widgets/scrollableframe/
+<!-- Badges -->
+[![GitHub stars](https://img.shields.io/github/stars/your-username/your-repo.svg)](https://github.com/your-username/your-repo/stargazers)
+
+<!-- Description -->
+This is a description of my awesome project.
+
+<!-- Table of Contents -->
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+<!-- Installation -->
+## Installation
+```bash
+npm install my-awesome-package
